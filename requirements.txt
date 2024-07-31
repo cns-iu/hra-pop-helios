@@ -1,0 +1,8 @@
+anndata
+scanpy
+python-igraph
+pandas
+tqdm
+xnetwork
+scikit-learn
+pynndescent
