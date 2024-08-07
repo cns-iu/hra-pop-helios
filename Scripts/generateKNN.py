@@ -35,8 +35,8 @@ logging.info(f"Networks path: {networksPath}")
 enablePCA = True
 useTruncatedSVD = False
 useLogNormalization = True
-kneighbors=10
-pcaDimensions = 100
+kneighbors=5
+pcaDimensions = 500
 # sampleRate = 1.0
 
 # log parameters
